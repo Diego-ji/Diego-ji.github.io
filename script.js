@@ -1,0 +1,1 @@
+// Portfolio Interactive Scriptsconsole.log("Diego-Ji's Portfolio Loaded Successfully!");// Optional basic template placeholder for future interactivity// Example: Smooth scrolling behavior verificationdocument.querySelectorAll('a[href^="#"]').forEach(anchor => {anchor.addEventListener('click', function (e) {console.log(Navigating smoothly to: ${this.getAttribute('href')});});});
